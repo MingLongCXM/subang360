@@ -1,0 +1,28 @@
+<div class="m-index">
+  <div class="m-index-body">
+  
+  </div>
+   <footer>
+    <ul>
+      <li class="active" action-type="tap.switch" data-tag="renwu">
+        <i class="yo-ico">&#xe699;</i>
+        <b>任务</b>
+      </li>
+      <li action-type="tap.switch" data-tag="huodong">
+        <i class="yo-ico">&#xe61d;</i>
+        <b>活动</b>
+      </li>
+      <li action-type="tap.switch" >
+        <i class="yo-ico">&#xe621;</i>
+      </li>
+      <li action-type="tap.switch" data-tag="message">
+        <i class="yo-ico">&#xe6c6;</i>
+        <b>消息</b>
+      </li>
+      <li action-type="tap.switch" data-tag="my">
+        <i class="yo-ico">&#xe6c7;</i>
+        <b>我</b>
+      </li>
+    </ul>
+  </footer>
+</div>

@@ -1,0 +1,37 @@
+<div class="m-index">
+  <header>
+    <div class="yo-ico"></div>
+    <ul>
+      <li>有服务</li>
+      <li>求帮助</li>
+    </ul>
+    <div class="yo-ico"></div>
+  </header>
+  <banner>
+  </banner>
+</div>
+  </banner>
+  <section>
+    
+  </section>
+  <footer>
+    <ul>
+      <li class="active">
+        <i class="yo-ico">&#xe699;</i>
+        <b>任务</b>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe61d;</i>
+        <b>活动</b>
+      </li><li>
+        <i class="yo-ico">&#xe621;</i>
+      </li><li>
+        <i class="yo-ico">&#xe6c6;</i>
+        <b>消息</b>
+      </li><li>
+        <i class="yo-ico">&#xe6c7;</i>
+        <b>我</b>
+      </li>
+    </ul>
+  </footer>
+</div>

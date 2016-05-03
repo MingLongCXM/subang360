@@ -1,0 +1,96 @@
+<header>
+    <ul>
+      <li>[<span>全国</span>]<i class="yo-ico">&#xe65f;</i></li>
+      <li>实习僧</li>
+      <li class="yo-ico">&#xe663;</li>
+    </ul>
+</header>
+<nav>
+  <div></div>
+  <div>
+    <div>
+      <div></div>
+      <div><img src="./././image/banner-1.png"></div>
+      <div></div>
+    </div>
+    <div>
+    <span class="yo-ico">&#xe666;</span>
+    <ul>
+      <li><i class="yo-ico">&#xe615;</i><p>财会</p></li>
+      <li><i class="yo-ico">&#xe6a0;</i><p>行政</p></li>
+      <li><i class="yo-ico">&#xe693;</i><p>前端</p></li>
+      <li><i class="yo-ico">&#xe63b;</i><p>软件</p></li>
+    </ul>
+    <span class="yo-ico">&#xe665;</span>
+    </div>
+  </div>
+<div></div>
+</nav>
+<section>
+  <div></div>
+  <div spa-widget="scroll">
+    <div>
+      <ul>
+        <li>
+          <div>
+            <img src="./././image/vml.png">
+          </div>
+        </li>
+        <li>
+          <i class="yo-ico">&#xe632;</i><b>客户执行实习生</b><span class="span">04-22更新</span>
+          <p>VML,CHINA </p>
+          <i class="yo-ico">&#xe610;</i><span>北京</span><i class="yo-ico i">&#xe669;</i><span>5天/ 周</span><a>￥80-100/天</a>
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <div>
+            <img src="./././image/vml.png">
+          </div>
+        </li>
+        <li>
+          <i class="yo-ico">&#xe632;</i><b>客户执行实习生</b><span class="span">04-22更新</span>
+          <p>VML,CHINA </p>
+          <i class="yo-ico">&#xe610;</i><span>北京</span><i class="yo-ico i">&#xe669;</i><span>5天/ 周</span><a>￥80-100/天</a>
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <div>
+            <img src="./././image/vml.png">
+          </div>
+        </li>
+        <li>
+          <i class="yo-ico">&#xe632;</i><b>客户执行实习生</b><span class="span">04-22更新</span>
+          <p>VML,CHINA </p>
+          <i class="yo-ico">&#xe610;</i><span>北京</span><i class="yo-ico i">&#xe669;</i><span>5天/ 周</span><a>￥80-100/天</a>
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <div>
+            <img src="./././image/vml.png">
+          </div>
+        </li>
+        <li>
+          <i class="yo-ico">&#xe632;</i><b>客户执行实习生</b><span class="span">04-22更新</span>
+          <p>VML,CHINA </p>
+          <i class="yo-ico">&#xe610;</i><span>北京</span><i class="yo-ico i">&#xe669;</i><span>5天/ 周</span><a>￥80-100/天</a>
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <div>
+            <img src="./././image/vml.png">
+          </div>
+        </li>
+        <li>
+          <i class="yo-ico">&#xe632;</i><b>客户执行实习生</b><span class="span">04-22更新</span>
+          <p>VML,CHINA </p>
+          <i class="yo-ico">&#xe610;</i><span>北京</span><i class="yo-ico i">&#xe669;</i><span>5天/ 周</span><a>￥80-100/天</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div></div>
+</section>

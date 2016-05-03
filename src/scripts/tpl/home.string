@@ -1,0 +1,27 @@
+<header>
+    <div class="yo-ico"></div>
+    <ul>
+      <li>有服务</li>
+      <li>求帮助</li>
+    </ul>
+    <div class="yo-ico"></div>
+  </header>
+<section spa-widget = "scroll">
+	<div class = "seiper-container" id="home-swiper">
+		<div class="swiper-wrapper">
+		    <div class="swiper-slide">slider1</div>
+		    <div class="swiper-slide">slider2</div>
+		    <div class="swiper-slide">slider3</div>
+	  	</div>
+	</div>
+	<div>
+		<ul>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+		</ul>
+	</div>	
+	
+</section>
